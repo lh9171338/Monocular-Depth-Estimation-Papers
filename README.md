@@ -13,7 +13,7 @@ A collection of monocular depth estimation papers.
 
 # 1. Methods
 
-## 1.1 Line Segment Detection
+## 1.1 Supervised
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ A collection of monocular depth estimation papers.
 | AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://arxiv.org/abs/1812.02122) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
 | Linelet | [A Novel Linelet-based Representation for Line Segment Detection.](https://ieeexplore.ieee.org/document/7926451) | IPAMI 2017 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
  
-## 1.2 Wireframe Parsing
+## 1.2 Unsupervised
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
@@ -31,9 +31,7 @@ A collection of monocular depth estimation papers.
 | LCNN | [End-to-End Wireframe Parsing](https://arxiv.org/abs/1905.03246) | ICCV 2019 | [[Code]](https://github.com/zhou13/lcnn) |
 | Wireframe | [Learning to Parse Wireframes in Images of Man-Made Environments](http://people.eecs.berkeley.edu/~yima/files/cvpr18-parsing-final.pdf) | CVPR 2018 | [[Code]](https://github.com/huangkuns/wireframe) |
 
----
-
-# 2. Traditional Approaches
+## 1.3 Video based
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
@@ -50,10 +48,9 @@ A collection of monocular depth estimation papers.
 
 # 2. Datasets
 
-- [PanoAnnotator](https://github.com/SunDaDenny/PanoAnnotator)
-- [PanoContext Dataset](http://panocontext.cs.princeton.edu/)
-- [Stanford 2D-3D Dataset](https://github.com/alexsax/2D-3D-Semantics)
-- [Matterport3D Dataset](https://github.com/niessner/Matterport)
-- [MatterportLayout Dataset](https://github.com/ericsujw/Matterport3DLayoutAnnotation)
-- [SUN360 Dataset](http://webdiis.unizar.es/~jmfacil/cfl/sun360)
+- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php)
+- [Cityscapes](https://www.cityscapes-dataset.com/)
+- [NYU Depth V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
+- [ScanNet](http://www.scan-net.org/#code-and-data)
+- [Make3D](http://make3d.cs.cornell.edu/data.html)
  
