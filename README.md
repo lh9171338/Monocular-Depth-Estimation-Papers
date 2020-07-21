@@ -36,6 +36,9 @@ A collection of monocular depth estimation papers.
 # 2. Datasets
 
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php)
+- [MVSEC Dataset](https://daniilidis-group.github.io/mvsec/)
+- [CMU Visual Localization Dataset](http://3dvis.ri.cmu.edu/data-sets/localization/)
+- [TUM RGB-D Dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset)
 - [Cityscapes](https://www.cityscapes-dataset.com/)
 - [NYU Depth V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 - [ScanNet](http://www.scan-net.org/#code-and-data)
