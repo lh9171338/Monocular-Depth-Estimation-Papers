@@ -17,14 +17,27 @@ A collection of monocular depth estimation papers.
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
+|   | [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941) | arXiv 2018 | [[Code]](https://github.com/ialhashim/DenseDepth) |
+| SVS | [Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation](https://arxiv.org/abs/1803.02612) | CVPR 2018 | [[Code]](https://github.com/lawy623/SVS) |
 | DORN | [Deep Ordinal Regression Network for Monocular Depth Estimation](https://arxiv.org/abs/1806.02446) | CVPR 2018 | [[Caffe]](https://github.com/hufu6371/DORN) [[PyTorch]](https://github.com/dontLoveBugs/DORN_pytorch) |
+| CCRF-CNN | [Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation](https://arxiv.org/abs/1702.02706) | CVPR 2017 | [[Code]](https://github.com/danxuhk/ContinuousCRF-CNN) |
+| CNN-SLAM | [CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction](https://arxiv.org/abs/1704.03489) | CVPR 2017 |   |
+|   | [A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images](https://arxiv.org/abs/1607.00730) | ICCV 2017 |   |
+|   | [Joint Semantic Segmentation and Depth Estimation with Deep Convolutional Networks](https://arxiv.org/abs/1604.07480) | 3DV 2016 |   |
 | FCRN | [Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373) | 3DV 2016 | [[Code]](https://github.com/iro-cp/FCRN-DepthPrediction) |
+|   | [Predicting depth, surface normals and semantic labels with a common multi-scale convolutional architecture](https://arxiv.org/abs/1411.4734) | ICCV 2015 | [[Project]](https://cs.nyu.edu/~deigen/dnl/) |
+|   | [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network.pdf) | NIPS 2014 | [[Code]](https://github.com/hjimce/Depth-Map-Prediction) |
  
 ## 1.2 Unsupervised
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-| Monodepth | [Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/abs/1609.03677) | CVPR 2017 | [[Code]](https://github.com/mrharicot/monodepth) |
+| Monodepth2  | [Digging into Self-Supervised Monocular Depth Prediction](https://arxiv.org/abs/1806.01260) | ICCV 2019 | [[Code]](https://github.com/nianticlabs/monodepth2) |
+|   | [Learning Monocular Depth by Distilling Cross-domain Stereo Networks](https://arxiv.org/abs/1808.06586) | ECCV 2018 | [[Code]](https://github.com/xy-guo/Learning-Monocular-Depth-by-Stereo) |
+| GeoNet | [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276) | CVPR 2018 | [[Code]](https://github.com/yzcjtr/GeoNet) |
+|   | [Semi-Supervised Deep Learning for Monocular Depth Map Prediction](https://arxiv.org/abs/1702.02706) | CVPR 2017 |   |
+| Monodepth | [Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/abs/1609.03677) | CVPR 2017 | [[Project]](http://visual.cs.ucl.ac.uk/pubs/monoDepth/) [[Code]](https://github.com/mrharicot/monodepth) |
+|   | [Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue](https://arxiv.org/abs/1603.04992) | ECCV 2016 | [[Code]](https://github.com/Ravi-Garg/Unsupervised_Depth_Estimation) |
 
 ## 1.3 Video based
 
