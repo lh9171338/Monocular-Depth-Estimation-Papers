@@ -36,7 +36,7 @@ A collection of monocular depth estimation papers.
 | --- | --- | --- | --- |
 | Monodepth2  | [Digging into Self-Supervised Monocular Depth Prediction](https://arxiv.org/abs/1806.01260) | ICCV 2019 | [[Code]](https://github.com/nianticlabs/monodepth2) |
 |  | [Learning Monocular Depth by Distilling Cross-domain Stereo Networks](https://arxiv.org/abs/1808.06586) | ECCV 2018 | [[Code]](https://github.com/xy-guo/Learning-Monocular-Depth-by-Stereo) |
-|  | [Semi-Supervised Deep Learning for Monocular Depth Map Prediction](https://arxiv.org/abs/1702.02706) | CVPR 2017 |   |
+| SemoDepth | [Semi-Supervised Deep Learning for Monocular Depth Map Prediction](https://arxiv.org/abs/1702.02706) | CVPR 2017 | [[Code]](https://github.com/apllolulu/SemoDepth)  |
 | Monodepth | [Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/abs/1609.03677) | CVPR 2017 | [[Project]](http://visual.cs.ucl.ac.uk/pubs/monoDepth/) [[Code]](https://github.com/mrharicot/monodepth) |
 |  | [Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue](https://arxiv.org/abs/1603.04992) | ECCV 2016 | [[Code]](https://github.com/Ravi-Garg/Unsupervised_Depth_Estimation) |
 
