@@ -10,6 +10,7 @@ A collection of monocular depth estimation papers.
   - [Unsupervised](#12-Unsupervised)
   - [Video based](#13-Video-based)  
 - [Datasets](#2-Datasets)
+- [SOTA](#3-SOTA)
 
 # 1. Methods
 
@@ -62,3 +63,7 @@ A collection of monocular depth estimation papers.
 - [ScanNet](http://www.scan-net.org/#code-and-data)
 - [Make3D](http://make3d.cs.cornell.edu/data.html)
  
+# 3. SOTA
+- [Papers with code](https://paperswithcode.com/task/monocular-depth-estimation)
+- [KITTI benchmark](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction)
+
