@@ -21,7 +21,7 @@ A collection of monocular depth estimation papers.
 |  | [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941) | arXiv 2018 | [[Code]](https://github.com/ialhashim/DenseDepth) |
 | SVS | [Single View Stereo Matching](https://arxiv.org/abs/1803.02612) | CVPR 2018 | [[Code]](https://github.com/lawy623/SVS) |
 | DORN | [Deep Ordinal Regression Network for Monocular Depth Estimation](https://arxiv.org/abs/1806.02446) | CVPR 2018 | [[Caffe]](https://github.com/hufu6371/DORN) [[PyTorch]](https://github.com/dontLoveBugs/DORN_pytorch) |
-| CCRF-CNN | [Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation](https://arxiv.org/abs/1702.02706) | CVPR 2017 | [[Code]](https://github.com/danxuhk/ContinuousCRF-CNN) |
+| CCRF-CNN | [Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation](https://arxiv.org/abs/1704.02157) | CVPR 2017 | [[Code]](https://github.com/danxuhk/ContinuousCRF-CNN) |
 | CNN-SLAM | [CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction](https://arxiv.org/abs/1704.03489) | CVPR 2017 |   |
 |  | [A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images](https://arxiv.org/abs/1607.00730) | ICCV 2017 |   |
 |  | [Joint Semantic Segmentation and Depth Estimation with Deep Convolutional Networks](https://arxiv.org/abs/1604.07480) | 3DV 2016 |   |
