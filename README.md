@@ -21,7 +21,6 @@ A collection of monocular depth estimation papers.
 |  | [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941) | arXiv 2018 | [[Code]](https://github.com/ialhashim/DenseDepth) |
 | SVS | [Single View Stereo Matching](https://arxiv.org/abs/1803.02612) | CVPR 2018 | [[Code]](https://github.com/lawy623/SVS) |
 | DORN | [Deep Ordinal Regression Network for Monocular Depth Estimation](https://arxiv.org/abs/1806.02446) | CVPR 2018 | [[Caffe]](https://github.com/hufu6371/DORN) [[PyTorch]](https://github.com/dontLoveBugs/DORN_pytorch) |
-| GeoNet | [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276) | CVPR 2018 | [[Code]](https://github.com/yzcjtr/GeoNet) |
 | CCRF-CNN | [Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation](https://arxiv.org/abs/1704.02157) | CVPR 2017 | [[Code]](https://github.com/danxuhk/ContinuousCRF-CNN) |
 | CNN-SLAM | [CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction](https://arxiv.org/abs/1704.03489) | CVPR 2017 | [[Code]](https://github.com/iitmcvg/CNN_SLAM)  |
 |  | [A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images](https://arxiv.org/abs/1607.00730) | ICCV 2017 |   |
@@ -48,6 +47,7 @@ A collection of monocular depth estimation papers.
 | Struct2depth | [Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos](https://arxiv.org/abs/1811.06152) | AAAI 2019 | [[Project]](https://sites.google.com/view/struct2depth) [[Code]](https://github.com/tensorflow/models/tree/master/research/struct2depth) |
 | Vid2depth | [Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints](https://arxiv.org/abs/1802.05522) | CVPR 2018 | [[Project]](https://sites.google.com/view/vid2depth) [[Code]](https://github.com/tensorflow/models/tree/master/research/vid2depth) |
 | Depth-VO-Feat | [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](https://arxiv.org/abs/1803.03893) | CVPR 2018 | [[Code]](https://github.com/Huangying-Zhan/Depth-VO-Feat) |
+| GeoNet | [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276) | CVPR 2018 | [[Code]](https://github.com/yzcjtr/GeoNet) |
 | SfMLearner | [Unsupervised Learning of Depth and Ego-Motion from Video](http://arxiv.org/abs/1704.07813) | CVPR 2017 | [[Code]](https://github.com/tinghuiz/SfMLearner) |
 
 ---
