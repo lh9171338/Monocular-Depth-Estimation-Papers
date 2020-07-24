@@ -64,6 +64,6 @@ A collection of monocular depth estimation papers.
 - [Make3D](http://make3d.cs.cornell.edu/data.html)
  
 # 3. SOTA
-- [Papers with code](https://paperswithcode.com/task/monocular-depth-estimation)
+- [paperswithcode](https://paperswithcode.com/task/monocular-depth-estimation)
 - [KITTI benchmark](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction)
 
